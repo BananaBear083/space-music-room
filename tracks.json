@@ -1,1 +1,50 @@
-[{"name": "主界面", "src": "assets/track-01.mp3"}, {"name": "地球-1", "src": "assets/track-02.mp3"}, {"name": "地球-2", "src": "assets/track-03.mp3"}, {"name": "地球-3", "src": "assets/track-04.mp3"}, {"name": "地球-4", "src": "assets/track-05.mp3"}, {"name": "太空航行", "src": "assets/track-06.mp3"}, {"name": "黑洞", "src": "assets/track-07.mp3"}, {"name": "中子星", "src": "assets/track-08.mp3"}, {"name": "冷冻星球", "src": "assets/track-09.mp3"}, {"name": "火山星球", "src": "assets/track-10.mp3"}, {"name": "更进一步", "src": "assets/track-11.mp3"}, {"name": "繁荣昌盛", "src": "assets/track-12.mp3"}]
+[
+  {
+    "name": "主界面",
+    "src": "assets/track-01.mp3"
+  },
+  {
+    "name": "地球-1",
+    "src": "assets/track-02.mp3"
+  },
+  {
+    "name": "地球-2",
+    "src": "assets/track-03.mp3"
+  },
+  {
+    "name": "地球-3",
+    "src": "assets/track-04.mp3"
+  },
+  {
+    "name": "地球-4",
+    "src": "assets/track-05.mp3"
+  },
+  {
+    "name": "繁荣昌盛",
+    "src": "assets/track-12.mp3"
+  },
+  {
+    "name": "更进一步",
+    "src": "assets/track-11.mp3"
+  },
+  {
+    "name": "太空航行",
+    "src": "assets/track-06.mp3"
+  },
+  {
+    "name": "黑洞",
+    "src": "assets/track-07.mp3"
+  },
+  {
+    "name": "中子星",
+    "src": "assets/track-08.mp3"
+  },
+  {
+    "name": "冷冻星球",
+    "src": "assets/track-09.mp3"
+  },
+  {
+    "name": "火山星球",
+    "src": "assets/track-10.mp3"
+  }
+]
